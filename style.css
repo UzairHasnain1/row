@@ -1,0 +1,27 @@
+employeeData, employee, name, age, city, salary, h1 {
+    display: block;
+}
+employeeData{
+    margin: 100px auto 100px auto;
+}
+
+h1{
+    text-align: center;
+    width: 200px;
+    font-size: 26px;
+    font-weight: bold;
+    margin: 20px auto 20px auto;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 30px;
+    background-color: lightgray;
+}
+
+name, age, city, salary{
+    border: 1px solid black;
+    width: 400px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    font-size: 22px;
+    background-color: aqua
+}
